@@ -1,0 +1,9 @@
+selenium==4.24.0
+icecream
+termcolor
+loguru
+bs4
+PyAutoGUI==0.9.54
+opencv-python==4.8.0.74
+numpy==1.25.1
+playsound
